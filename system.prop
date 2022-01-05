@@ -74,3 +74,9 @@ ro.vendor.net.enable_dual_wifi=1
 wifi.direct.interface=p2p0
 wifi.interface=wlan0
 wifi.tethering.interface=ap0
+
+# SparkOS
+ro.spark.maintainer=Itachi Uchiha
+ro.spark.device.name=Redmi Note 8 Pro
+ro.spark.maintainer.username=KonohaHokage
+ro.spark.group.url=https://t.me/Uchiha_Clan_Begonia
