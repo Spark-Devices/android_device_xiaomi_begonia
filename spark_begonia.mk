@@ -14,7 +14,6 @@ $(call inherit-product, device/xiaomi/begonia/device.mk)
 
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/spark/config/common_full_phone.mk)
-SPARK_BUILD_TYPE := OFFICIAL
 WITH_GMS := true
 TARGET_BOOT_ANIMATION_RES := 1080
 
